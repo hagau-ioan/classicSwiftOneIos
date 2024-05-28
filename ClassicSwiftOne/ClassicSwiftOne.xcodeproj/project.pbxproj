@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C356EBA02BEB5DD4003E31FD /* hagau-ioan-code-enrolment.png in Resources */ = {isa = PBXBuildFile; fileRef = C356EB9F2BEB5DD4003E31FD /* hagau-ioan-code-enrolment.png */; };
 		C356EBA52BEB5F65003E31FD /* RepositoryWSP.swift in Sources */ = {isa = PBXBuildFile; fileRef = C356EBA42BEB5F65003E31FD /* RepositoryWSP.swift */; };
 		C356EBA72BEB6199003E31FD /* ProxyWSP.swift in Sources */ = {isa = PBXBuildFile; fileRef = C356EBA62BEB6199003E31FD /* ProxyWSP.swift */; };
 		C356EBAC2BEB6A3F003E31FD /* RepositoryLocalStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C356EBAB2BEB6A3F003E31FD /* RepositoryLocalStorage.swift */; };
@@ -108,7 +107,6 @@
 		99526F4990397D7BB884A3BF /* Pods_ClassicSwiftOne.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ClassicSwiftOne.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0CD6A218F0004CB57853CE6 /* Pods-ClassicSwiftOne.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClassicSwiftOne.release.xcconfig"; path = "Target Support Files/Pods-ClassicSwiftOne/Pods-ClassicSwiftOne.release.xcconfig"; sourceTree = "<group>"; };
 		BFCA79EFC5750EBB9945F557 /* Pods-ClassicSwiftOne.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClassicSwiftOne.debug.xcconfig"; path = "Target Support Files/Pods-ClassicSwiftOne/Pods-ClassicSwiftOne.debug.xcconfig"; sourceTree = "<group>"; };
-		C356EB9F2BEB5DD4003E31FD /* hagau-ioan-code-enrolment.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hagau-ioan-code-enrolment.png"; sourceTree = "<group>"; };
 		C356EBA42BEB5F65003E31FD /* RepositoryWSP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepositoryWSP.swift; sourceTree = "<group>"; };
 		C356EBA62BEB6199003E31FD /* ProxyWSP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProxyWSP.swift; sourceTree = "<group>"; };
 		C356EBAB2BEB6A3F003E31FD /* RepositoryLocalStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepositoryLocalStorage.swift; sourceTree = "<group>"; };
@@ -400,7 +398,6 @@
 		C3C8096B2BD8E30E006980D2 /* documentation */ = {
 			isa = PBXGroup;
 			children = (
-				C356EB9F2BEB5DD4003E31FD /* hagau-ioan-code-enrolment.png */,
 				C3C8096A2BD8E307006980D2 /* readme.md */,
 			);
 			path = documentation;
@@ -601,7 +598,6 @@
 				C3C8094F2BD2BEF7006980D2 /* nssl0051.jpg in Resources */,
 				C3C809512BD2BEF7006980D2 /* nssl0049.jpg in Resources */,
 				C3C8094D2BD2BEF7006980D2 /* nssl0042.jpg in Resources */,
-				C356EBA02BEB5DD4003E31FD /* hagau-ioan-code-enrolment.png in Resources */,
 				C3C8092A2BD2B8DE006980D2 /* media.xcassets in Resources */,
 				C3C809532BD2BEF7006980D2 /* nssl0091.jpg in Resources */,
 				C3C8094C2BD2BEF7006980D2 /* nssl0045.jpg in Resources */,
