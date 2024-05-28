@@ -1,0 +1,77 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "DESC" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "nr: %lld DESC SINGLE"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "nr: %lld DESC MORE"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "DETAILS_IMAGE_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Picture name is: %@"
+          }
+        }
+      }
+    },
+    "HOME_SCREEN_TITLE_TBL" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "List of data: click on the item to see the details."
+          }
+        }
+      }
+    },
+    "SCREEN_DETAILS_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Screen Details"
+          }
+        }
+      }
+    },
+    "SCREEN_HOME" : {
+      "comment" : "A COMMENT HERE",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home Screen"
+          }
+        }
+      }
+    },
+    "TITLE" : {
+
+    }
+  },
+  "version" : "1.0"
+}

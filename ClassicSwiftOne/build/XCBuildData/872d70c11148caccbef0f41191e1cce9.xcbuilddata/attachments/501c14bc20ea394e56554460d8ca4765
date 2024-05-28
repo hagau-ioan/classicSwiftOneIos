@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/BackgroundDownloadSample.build/Objects-normal/arm64/BackgroundDownloadSample-master.dia",
+    "emit-module-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/BackgroundDownloadSample.build/Objects-normal/arm64/BackgroundDownloadSample-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/BackgroundDownloadSample.build/Objects-normal/arm64/BackgroundDownloadSample-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/BackgroundDownloadSample.build/Objects-normal/arm64/BackgroundDownloadSample-master.swiftdeps"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/BackgroundDownloadSample/BackgroundDownloadHandler.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/BackgroundDownloadSample.build/Objects-normal/arm64/BackgroundDownloadHandler.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/BackgroundDownloadSample.build/Objects-normal/arm64/BackgroundDownloadHandler.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/BackgroundDownloadSample.build/Objects-normal/arm64/BackgroundDownloadHandler.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/BackgroundDownloadSample.build/Objects-normal/arm64/BackgroundDownloadHandler.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/BackgroundDownloadSample.build/Objects-normal/arm64/BackgroundDownloadHandler.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/BackgroundDownloadSample.build/Objects-normal/arm64/BackgroundDownloadHandler.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/BackgroundDownloadSample.build/Objects-normal/arm64/BackgroundDownloadHandler.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/BackgroundDownloadSample.build/Objects-normal/arm64/BackgroundDownloadHandler~partial.swiftmodule"
+  }
+}

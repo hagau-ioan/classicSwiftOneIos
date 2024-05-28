@@ -1,0 +1,6 @@
+framework module Pods_ClassicSwiftOne {
+  umbrella header "Pods-ClassicSwiftOne-umbrella.h"
+
+  export *
+  module * { export * }
+}

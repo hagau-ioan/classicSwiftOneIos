@@ -1,0 +1,508 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ClassicSwiftOne-master.dia",
+    "emit-module-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ClassicSwiftOne-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ClassicSwiftOne-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ClassicSwiftOne-master.swiftdeps"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/DerivedSources/CoreDataGenerated/CoreDataModel/CoreDataModel+CoreDataModel.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/CoreDataModel+CoreDataModel.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/CoreDataModel+CoreDataModel.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/CoreDataModel+CoreDataModel.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/CoreDataModel+CoreDataModel.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/CoreDataModel+CoreDataModel.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/CoreDataModel+CoreDataModel.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/CoreDataModel+CoreDataModel.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/CoreDataModel+CoreDataModel~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/DerivedSources/CoreDataGenerated/CoreDataModel/TrackingEntity+CoreDataClass.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TrackingEntity+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TrackingEntity+CoreDataClass.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TrackingEntity+CoreDataClass.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TrackingEntity+CoreDataClass.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TrackingEntity+CoreDataClass.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TrackingEntity+CoreDataClass.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TrackingEntity+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TrackingEntity+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/DerivedSources/CoreDataGenerated/CoreDataModel/TrackingEntity+CoreDataProperties.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TrackingEntity+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TrackingEntity+CoreDataProperties.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TrackingEntity+CoreDataProperties.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TrackingEntity+CoreDataProperties.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TrackingEntity+CoreDataProperties.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TrackingEntity+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TrackingEntity+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TrackingEntity+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/DerivedSources/CoreDataGenerated/CoreDataModel/UserEntity+CoreDataClass.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserEntity+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserEntity+CoreDataClass.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserEntity+CoreDataClass.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserEntity+CoreDataClass.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserEntity+CoreDataClass.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserEntity+CoreDataClass.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserEntity+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserEntity+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/DerivedSources/CoreDataGenerated/CoreDataModel/UserEntity+CoreDataProperties.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserEntity+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserEntity+CoreDataProperties.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserEntity+CoreDataProperties.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserEntity+CoreDataProperties.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserEntity+CoreDataProperties.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserEntity+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserEntity+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserEntity+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/AppDelegate.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/data/local/database/CoreDataModelContainer.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/CoreDataModelContainer.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/CoreDataModelContainer.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/CoreDataModelContainer.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/CoreDataModelContainer.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/CoreDataModelContainer.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/CoreDataModelContainer.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/CoreDataModelContainer.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/CoreDataModelContainer~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/data/local/database/DataBaseController.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataBaseController.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataBaseController.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataBaseController.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataBaseController.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataBaseController.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataBaseController.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataBaseController.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataBaseController~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/data/local/database/DataBaseUtils.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataBaseUtils.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataBaseUtils.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataBaseUtils.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataBaseUtils.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataBaseUtils.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataBaseUtils.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataBaseUtils.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataBaseUtils~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/data/local/database/models/Tracking.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/Tracking.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/Tracking.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/Tracking.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/Tracking.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/Tracking.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/Tracking.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/Tracking.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/Tracking~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/data/local/database/models/User.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/User.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/User.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/User.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/User.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/User.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/User.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/User.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/User~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/data/local/database/SwiftDataModelContainer.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/SwiftDataModelContainer.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/SwiftDataModelContainer.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/SwiftDataModelContainer.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/SwiftDataModelContainer.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/SwiftDataModelContainer.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/SwiftDataModelContainer.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/SwiftDataModelContainer.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/SwiftDataModelContainer~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/data/local/KeyChainPassword.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/KeyChainPassword.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/KeyChainPassword.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/KeyChainPassword.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/KeyChainPassword.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/KeyChainPassword.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/KeyChainPassword.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/KeyChainPassword.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/KeyChainPassword~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/data/local/LocalStorageData.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/LocalStorageData.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/LocalStorageData.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/LocalStorageData.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/LocalStorageData.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/LocalStorageData.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/LocalStorageData.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/LocalStorageData.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/LocalStorageData~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/data/local/UserSettingsDefaults.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserSettingsDefaults.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserSettingsDefaults.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserSettingsDefaults.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserSettingsDefaults.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserSettingsDefaults.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserSettingsDefaults.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserSettingsDefaults.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/UserSettingsDefaults~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/data/RepositoryDataBase.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryDataBase.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryDataBase.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryDataBase.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryDataBase.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryDataBase.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryDataBase.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryDataBase.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryDataBase~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/data/RepositoryLocalStorage.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryLocalStorage.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryLocalStorage.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryLocalStorage.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryLocalStorage.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryLocalStorage.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryLocalStorage.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryLocalStorage.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryLocalStorage~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/data/RepositoryWSP.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryWSP.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryWSP.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryWSP.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryWSP.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryWSP.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryWSP.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryWSP.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/RepositoryWSP~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/data/wsp/models/ResponseData.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ResponseData.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ResponseData.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ResponseData.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ResponseData.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ResponseData.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ResponseData.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ResponseData.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ResponseData~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/data/wsp/ProxyWSP.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ProxyWSP.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ProxyWSP.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ProxyWSP.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ProxyWSP.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ProxyWSP.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ProxyWSP.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ProxyWSP.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ProxyWSP~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/data/wsp/URLSessionInterceptor.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/URLSessionInterceptor.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/URLSessionInterceptor.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/URLSessionInterceptor.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/URLSessionInterceptor.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/URLSessionInterceptor.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/URLSessionInterceptor.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/URLSessionInterceptor.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/URLSessionInterceptor~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/di/di.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/di.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/di.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/di.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/di.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/di.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/di.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/di.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/di~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/domain/dto/ToFromImageItem.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ToFromImageItem.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ToFromImageItem.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ToFromImageItem.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ToFromImageItem.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ToFromImageItem.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ToFromImageItem.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ToFromImageItem.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ToFromImageItem~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/domain/GeKeyChainPasswordUseCase.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GeKeyChainPasswordUseCase.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GeKeyChainPasswordUseCase.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GeKeyChainPasswordUseCase.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GeKeyChainPasswordUseCase.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GeKeyChainPasswordUseCase.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GeKeyChainPasswordUseCase.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GeKeyChainPasswordUseCase.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GeKeyChainPasswordUseCase~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/domain/GetImagesUseCase.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetImagesUseCase.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetImagesUseCase.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetImagesUseCase.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetImagesUseCase.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetImagesUseCase.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetImagesUseCase.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetImagesUseCase.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetImagesUseCase~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/domain/GetPostsUseCase.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetPostsUseCase.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetPostsUseCase.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetPostsUseCase.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetPostsUseCase.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetPostsUseCase.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetPostsUseCase.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetPostsUseCase.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetPostsUseCase~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/domain/GetUserSettingsUseCase.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetUserSettingsUseCase.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetUserSettingsUseCase.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetUserSettingsUseCase.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetUserSettingsUseCase.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetUserSettingsUseCase.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetUserSettingsUseCase.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetUserSettingsUseCase.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetUserSettingsUseCase~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/domain/GetUserUseCase.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetUserUseCase.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetUserUseCase.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetUserUseCase.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetUserUseCase.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetUserUseCase.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetUserUseCase.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetUserUseCase.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/GetUserUseCase~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/domain/models/DataLoaded.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataLoaded.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataLoaded.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataLoaded.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataLoaded.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataLoaded.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataLoaded.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataLoaded.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DataLoaded~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/domain/models/ImageItem.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ImageItem.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ImageItem.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ImageItem.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ImageItem.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ImageItem.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ImageItem.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ImageItem.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ImageItem~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/domain/models/Post.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/Post.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/Post.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/Post.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/Post.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/Post.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/Post.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/Post.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/Post~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/SceneDelegate.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/ui/components/ImageView.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ImageView.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ImageView.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ImageView.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ImageView.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ImageView.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ImageView.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ImageView.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ImageView~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/ui/components/TableCell.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TableCell.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TableCell.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TableCell.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TableCell.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TableCell.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TableCell.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TableCell.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TableCell~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/ui/controllers/ContactScreenViewController.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ContactScreenViewController.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ContactScreenViewController.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ContactScreenViewController.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ContactScreenViewController.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ContactScreenViewController.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ContactScreenViewController.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ContactScreenViewController.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ContactScreenViewController~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/ui/controllers/DetailsScreenViewController.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DetailsScreenViewController.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DetailsScreenViewController.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DetailsScreenViewController.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DetailsScreenViewController.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DetailsScreenViewController.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DetailsScreenViewController.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DetailsScreenViewController.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/DetailsScreenViewController~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/ui/controllers/FirstScreenViewController.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/FirstScreenViewController.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/FirstScreenViewController.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/FirstScreenViewController.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/FirstScreenViewController.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/FirstScreenViewController.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/FirstScreenViewController.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/FirstScreenViewController.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/FirstScreenViewController~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/ui/controllers/navigation/ScreenDetailsArg.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ScreenDetailsArg.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ScreenDetailsArg.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ScreenDetailsArg.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ScreenDetailsArg.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ScreenDetailsArg.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ScreenDetailsArg.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ScreenDetailsArg.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ScreenDetailsArg~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/ui/controllers/navigation/ScreenNavigation.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ScreenNavigation.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ScreenNavigation.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ScreenNavigation.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ScreenNavigation.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ScreenNavigation.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ScreenNavigation.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ScreenNavigation.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ScreenNavigation~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/ui/controllers/navigation/WriteValueBackDelegate.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/WriteValueBackDelegate.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/WriteValueBackDelegate.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/WriteValueBackDelegate.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/WriteValueBackDelegate.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/WriteValueBackDelegate.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/WriteValueBackDelegate.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/WriteValueBackDelegate.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/WriteValueBackDelegate~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/ui/services/BackgroundLongService.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundLongService.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundLongService.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundLongService.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundLongService.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundLongService.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundLongService.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundLongService.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundLongService~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/ui/services/BackgroundServiceManagement.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundServiceManagement.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundServiceManagement.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundServiceManagement.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundServiceManagement.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundServiceManagement.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundServiceManagement.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundServiceManagement.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundServiceManagement~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/ui/services/BackgroundShortService.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundShortService.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundShortService.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundShortService.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundShortService.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundShortService.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundShortService.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundShortService.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BackgroundShortService~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/ui/services/BluetoothScanService.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BluetoothScanService.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BluetoothScanService.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BluetoothScanService.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BluetoothScanService.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BluetoothScanService.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BluetoothScanService.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BluetoothScanService.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/BluetoothScanService~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/ui/services/NetworkMonitor.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/NetworkMonitor.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/NetworkMonitor.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/NetworkMonitor.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/NetworkMonitor.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/NetworkMonitor.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/NetworkMonitor.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/NetworkMonitor.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/NetworkMonitor~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/ui/viewmodels/MainViewModel.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/MainViewModel.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/MainViewModel.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/MainViewModel.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/MainViewModel.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/MainViewModel.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/MainViewModel.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/MainViewModel.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/MainViewModel~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/utils/errors/ErrorTypes.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ErrorTypes.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ErrorTypes.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ErrorTypes.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ErrorTypes.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ErrorTypes.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ErrorTypes.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ErrorTypes.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/ErrorTypes~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/utils/TaskUtils.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TaskUtils.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TaskUtils.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TaskUtils.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TaskUtils.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TaskUtils.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TaskUtils.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TaskUtils.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TaskUtils~partial.swiftmodule"
+  },
+  "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/ClassicSwiftOne/utils/TimeUtils.swift" : {
+    "const-values" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TimeUtils.swiftconstvalues",
+    "dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TimeUtils.d",
+    "diagnostics" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TimeUtils.dia",
+    "index-unit-output-path" : "/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TimeUtils.o",
+    "llvm-bc" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TimeUtils.bc",
+    "object" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TimeUtils.o",
+    "swift-dependencies" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TimeUtils.swiftdeps",
+    "swiftmodule" : "/Users/ihagau/Documents/projects/ioan/ios/LearnSwift/ClassicSwiftOne/build/ClassicSwiftOne.build/Debug-iphoneos/ClassicSwiftOne.build/Objects-normal/arm64/TimeUtils~partial.swiftmodule"
+  }
+}
