@@ -6,27 +6,39 @@
 //
 
 import XCTest
+@testable import ClassicSwiftOne
+
 /*
  * To run from console:
  * xcodebuild test -workspace 'ClassicSwiftOne.xcworkspace' -scheme 'ClassicSwiftOne' -destination 'platform=iOS Simulator,name=iPhone 15 Pro,OS=17.0.2'
+ *
+ * In ios there is no concept of mocking data.
+ * We need to provide all the arguments as injected (using a DI lib or factory pattern)
+ * Usualy to have a nice flow unit testing we need to base the testing over the return result of the method or based on a member variable
+ * from tested class which will provide us the value (this is for async methods - using tasks)
  */
 final class ExampleUnitTests: XCTestCase {
 
+    var viewModel: MainViewModel? = nil
+    
     override func setUpWithError() throws {
-        // Put setup code here. This method is called before the invocation of each test method in the class.
-    }
+        viewModel = MainViewModel(
+            postsUseCase : nil,
+            imagesUseCase:nil,
+            settings : nil,
+            keyChain : nil,
+            userUsercase : nil
+        )    }
 
     override func tearDownWithError() throws {
-        // Put teardown code here. This method is called after the invocation of each test method in the class.
+        viewModel = nil
     }
 
     func testExample() async throws {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
-        // Any test you write for XCTest can be annotated as throws and async.
-        // Mark your test throws to produce an unexpected failure when your test encounters an uncaught error.
-        // Mark your test async to allow awaiting for asynchronous code to complete. Check the results with assertions afterwards.
-        XCTAssertEqual(1, 1)
+        let expectedValue = 2
+        let task = await viewModel?.methodForTestTask(value: expectedValue)
+        let value = try await task?.value
+        XCTAssertEqual(expectedValue, value)
     }
 
     func testPerformanceExample() throws {

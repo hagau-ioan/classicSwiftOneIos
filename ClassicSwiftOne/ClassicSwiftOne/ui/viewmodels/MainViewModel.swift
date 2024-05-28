@@ -137,6 +137,15 @@ class MainViewModel: NSObject {
         loadListDataServerTask = nil
     }
     
+    /*
+     * Used only for Unit testing POC
+     */
+    func methodForTestTask(value: Int) async -> Task<Int, Error> {
+        Task {
+            return value
+        }
+    }
+    
     deinit {
         onStop()
     }
