@@ -40,6 +40,17 @@
                ReferencedContainer = "container:ClassicSwiftOne.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C3D023B02C0766BE0015A2A2"
+               BuildableName = "ClassicSwiftOneUITests.xctest"
+               BlueprintName = "ClassicSwiftOneUITests"
+               ReferencedContainer = "container:ClassicSwiftOne.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
