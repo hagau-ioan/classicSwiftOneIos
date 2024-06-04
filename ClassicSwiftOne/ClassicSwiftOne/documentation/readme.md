@@ -37,7 +37,7 @@ UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge
 
 # COMBINE
 
-- handle async states like states flows in kotlin
+- handle async states like states flows in kotlinL @published or by implementing Protocol: ObservableObject (no need to import combined then)
 
 # Recover the app state
 

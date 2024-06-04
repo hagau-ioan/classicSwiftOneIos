@@ -28,10 +28,10 @@ class ContactScreenViewController: UIViewController{
     // SwiftData - Done
     // TODO: is there a way to trigger some system intents like appBootLoaded and to do something in the app? - Done - Only by using some Notifications systems handler
     // TODO: InterProcess comunication - Done - there is no IPC concept in same app or at least there is something which involve a obectiveC and c++ code.
+    // TODO: Unit tests and e2e tests - Done
     
     // Need a phone
     // TODO: I noticed that in the Editor (selecting the app name) we can add + a "Background Download task" - what's that? - Done - : Need a phone
     // TODO: Bluetooth connection to the devices as we have in the Android project: Need a phone
     
-    // TODO: Unit tests and e2e tests
 }

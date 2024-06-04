@@ -65,6 +65,14 @@
 		C3D023A72C04BD9B0015A2A2 /* ExampleUnitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D023A62C04BD9B0015A2A2 /* ExampleUnitTests.swift */; };
 		C3D023B42C0766BE0015A2A2 /* ClassicSwiftOneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D023B32C0766BE0015A2A2 /* ClassicSwiftOneUITests.swift */; };
 		C3D023B62C0766BE0015A2A2 /* ClassicSwiftOneUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D023B52C0766BE0015A2A2 /* ClassicSwiftOneUITestsLaunchTests.swift */; };
+		C3D023BD2C0DACDF0015A2A2 /* DialogUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D023BC2C0DACDF0015A2A2 /* DialogUseCase.swift */; };
+		C3D023C12C0DDC6A0015A2A2 /* DrawerMenuControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D023BF2C0DDC6A0015A2A2 /* DrawerMenuControllerViewController.swift */; };
+		C3D023C22C0DDC6A0015A2A2 /* DrawerMenuControllerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C3D023C02C0DDC6A0015A2A2 /* DrawerMenuControllerViewController.xib */; };
+		C3D023C42C0DF2680015A2A2 /* DrawerTransitionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D023C32C0DF2680015A2A2 /* DrawerTransitionManager.swift */; };
+		C3D023C62C0DF5380015A2A2 /* DrawerPresentationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D023C52C0DF5380015A2A2 /* DrawerPresentationController.swift */; };
+		C3D023C82C0DF6BB0015A2A2 /* DrawerSlideAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D023C72C0DF6BB0015A2A2 /* DrawerSlideAnimation.swift */; };
+		C3D023CB2C0F140B0015A2A2 /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D023CA2C0F140B0015A2A2 /* MenuItem.swift */; };
+		C3D023CD2C0F163B0015A2A2 /* MenuItemList.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D023CC2C0F163B0015A2A2 /* MenuItemList.swift */; };
 		C3FBDBF02BF35B5E009CB168 /* UserSettingsDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3FBDBEF2BF35B5E009CB168 /* UserSettingsDefaults.swift */; };
 		C3FBDBF22BF3670C009CB168 /* GetUserSettingsUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3FBDBF12BF3670C009CB168 /* GetUserSettingsUseCase.swift */; };
 		C3FBDBF42BF4B3F2009CB168 /* KeyChainPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3FBDBF32BF4B3F2009CB168 /* KeyChainPassword.swift */; };
@@ -181,6 +189,14 @@
 		C3D023B12C0766BE0015A2A2 /* ClassicSwiftOneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClassicSwiftOneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3D023B32C0766BE0015A2A2 /* ClassicSwiftOneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassicSwiftOneUITests.swift; sourceTree = "<group>"; };
 		C3D023B52C0766BE0015A2A2 /* ClassicSwiftOneUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassicSwiftOneUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C3D023BC2C0DACDF0015A2A2 /* DialogUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialogUseCase.swift; sourceTree = "<group>"; };
+		C3D023BF2C0DDC6A0015A2A2 /* DrawerMenuControllerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawerMenuControllerViewController.swift; sourceTree = "<group>"; };
+		C3D023C02C0DDC6A0015A2A2 /* DrawerMenuControllerViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DrawerMenuControllerViewController.xib; sourceTree = "<group>"; };
+		C3D023C32C0DF2680015A2A2 /* DrawerTransitionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawerTransitionManager.swift; sourceTree = "<group>"; };
+		C3D023C52C0DF5380015A2A2 /* DrawerPresentationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawerPresentationController.swift; sourceTree = "<group>"; };
+		C3D023C72C0DF6BB0015A2A2 /* DrawerSlideAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawerSlideAnimation.swift; sourceTree = "<group>"; };
+		C3D023CA2C0F140B0015A2A2 /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
+		C3D023CC2C0F163B0015A2A2 /* MenuItemList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemList.swift; sourceTree = "<group>"; };
 		C3FBDBEF2BF35B5E009CB168 /* UserSettingsDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSettingsDefaults.swift; sourceTree = "<group>"; };
 		C3FBDBF12BF3670C009CB168 /* GetUserSettingsUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetUserSettingsUseCase.swift; sourceTree = "<group>"; };
 		C3FBDBF32BF4B3F2009CB168 /* KeyChainPassword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyChainPassword.swift; sourceTree = "<group>"; };
@@ -348,6 +364,7 @@
 			children = (
 				C3C8091F2BD14618006980D2 /* TableCell.swift */,
 				C3C8095A2BD68F24006980D2 /* ImageView.swift */,
+				C3D023BC2C0DACDF0015A2A2 /* DialogUseCase.swift */,
 			);
 			path = components;
 			sourceTree = "<group>";
@@ -363,6 +380,7 @@
 		C3C809282BD29EE5006980D2 /* controllers */ = {
 			isa = PBXGroup;
 			children = (
+				C3D023BE2C0DDB560015A2A2 /* drawer */,
 				C3C809572BD66ED7006980D2 /* navigation */,
 				C3C808B02BCD2A53006980D2 /* FirstScreenViewController.swift */,
 				C3C809552BD65ADE006980D2 /* DetailsScreenViewController.swift */,
@@ -480,6 +498,28 @@
 				C3D023B52C0766BE0015A2A2 /* ClassicSwiftOneUITestsLaunchTests.swift */,
 			);
 			path = ClassicSwiftOneUITests;
+			sourceTree = "<group>";
+		};
+		C3D023BE2C0DDB560015A2A2 /* drawer */ = {
+			isa = PBXGroup;
+			children = (
+				C3D023C92C0F13D30015A2A2 /* models */,
+				C3D023BF2C0DDC6A0015A2A2 /* DrawerMenuControllerViewController.swift */,
+				C3D023C02C0DDC6A0015A2A2 /* DrawerMenuControllerViewController.xib */,
+				C3D023C32C0DF2680015A2A2 /* DrawerTransitionManager.swift */,
+				C3D023C52C0DF5380015A2A2 /* DrawerPresentationController.swift */,
+				C3D023C72C0DF6BB0015A2A2 /* DrawerSlideAnimation.swift */,
+				C3D023CC2C0F163B0015A2A2 /* MenuItemList.swift */,
+			);
+			path = drawer;
+			sourceTree = "<group>";
+		};
+		C3D023C92C0F13D30015A2A2 /* models */ = {
+			isa = PBXGroup;
+			children = (
+				C3D023CA2C0F140B0015A2A2 /* MenuItem.swift */,
+			);
+			path = models;
 			sourceTree = "<group>";
 		};
 		C3FBDC0B2BF632BC009CB168 /* database */ = {
@@ -641,6 +681,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3D023C22C0DDC6A0015A2A2 /* DrawerMenuControllerViewController.xib in Resources */,
 				C3C809542BD2BEF7006980D2 /* nssl0041.jpg in Resources */,
 				C3C809502BD2BEF7006980D2 /* nssl0043.jpg in Resources */,
 				C3C809522BD2BEF7006980D2 /* nssl0046.jpg in Resources */,
@@ -728,16 +769,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3D023CB2C0F140B0015A2A2 /* MenuItem.swift in Sources */,
 				C3D0237E2BF775320015A2A2 /* NetworkMonitor.swift in Sources */,
 				C3D0237A2BF7399F0015A2A2 /* DataBaseUtils.swift in Sources */,
 				C3D023882BFB92220015A2A2 /* TaskUtils.swift in Sources */,
+				C3D023C42C0DF2680015A2A2 /* DrawerTransitionManager.swift in Sources */,
 				C356EBB12BEB6BEE003E31FD /* GetImagesUseCase.swift in Sources */,
 				C356EBB42BEE124C003E31FD /* ToFromImageItem.swift in Sources */,
 				C356EBA52BEB5F65003E31FD /* RepositoryWSP.swift in Sources */,
+				C3D023C12C0DDC6A0015A2A2 /* DrawerMenuControllerViewController.swift in Sources */,
 				C3FBDBF42BF4B3F2009CB168 /* KeyChainPassword.swift in Sources */,
 				C3D023802BFB32BC0015A2A2 /* Tracking.swift in Sources */,
 				C356EBAC2BEB6A3F003E31FD /* RepositoryLocalStorage.swift in Sources */,
 				C3C808B12BCD2A53006980D2 /* FirstScreenViewController.swift in Sources */,
+				C3D023C62C0DF5380015A2A2 /* DrawerPresentationController.swift in Sources */,
 				C3D0238C2BFCAC400015A2A2 /* BackgroundServiceManagement.swift in Sources */,
 				C3C809592BD66EFC006980D2 /* ScreenDetailsArg.swift in Sources */,
 				C356EBAF2BEB6A9D003E31FD /* LocalStorageData.swift in Sources */,
@@ -753,7 +798,9 @@
 				C3C809562BD65ADE006980D2 /* DetailsScreenViewController.swift in Sources */,
 				C3C809202BD14618006980D2 /* TableCell.swift in Sources */,
 				C3FBDC0D2BF633CF009CB168 /* DataBaseController.swift in Sources */,
+				C3D023CD2C0F163B0015A2A2 /* MenuItemList.swift in Sources */,
 				C3C809612BD78F04006980D2 /* WriteValueBackDelegate.swift in Sources */,
+				C3D023C82C0DF6BB0015A2A2 /* DrawerSlideAnimation.swift in Sources */,
 				C3C8095F2BD6BCD9006980D2 /* ContactScreenViewController.swift in Sources */,
 				C3FBDBF62BF4BFF6009CB168 /* GeKeyChainPasswordUseCase.swift in Sources */,
 				C3C809632BD790B3006980D2 /* ScreenNavigation.swift in Sources */,
@@ -770,6 +817,7 @@
 				C3C809692BD7E71F006980D2 /* ErrorTypes.swift in Sources */,
 				C3C809652BD7DD12006980D2 /* MainViewModel.swift in Sources */,
 				C3FBDBF02BF35B5E009CB168 /* UserSettingsDefaults.swift in Sources */,
+				C3D023BD2C0DACDF0015A2A2 /* DialogUseCase.swift in Sources */,
 				C3D023842BFB50460015A2A2 /* CoreDataModelContainer.swift in Sources */,
 				C3D023862BFB906C0015A2A2 /* BackgroundLongService.swift in Sources */,
 				C3C809762BD92DCF006980D2 /* ResponseData.swift in Sources */,

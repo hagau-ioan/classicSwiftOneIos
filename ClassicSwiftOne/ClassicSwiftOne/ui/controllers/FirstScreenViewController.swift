@@ -63,6 +63,24 @@ class FirstScreenViewController: UIViewController, WriteValueBackDelegate {
         
         let blt = BluetoothScanService()
         blt.start()
+
+        addHamburgerMenu()
+        
+    }
+    
+    func addHamburgerMenu() {
+        // let leftButton =  UIBarButtonItem(title: "Left Button", style: UIBarButtonItem.Style.plain, target: self, action: nil)
+        let leftButton = UIBarButtonItem(image: UIImage(systemName: "line.horizontal.3"), style: .plain, target: self, action: #selector(self.toggleDrawer))
+        navigationItem.leftItemsSupplementBackButton = true // Can be added beside back button
+        navigationItem.leftBarButtonItem = leftButton
+        // navigationItem.leftItemsSupplementBackButton = true // to add BACK button beside other buttons
+        // navigationItem.leftBarButtonItems = [] // To add multiple buttons in the top toolbar
+    }
+    
+    @objc private func toggleDrawer() {
+        let drawerController = DrawerMenuControllerViewController.shared
+        weak var thisSelf = self
+        drawerController.show(context: thisSelf)
     }
     
     /*

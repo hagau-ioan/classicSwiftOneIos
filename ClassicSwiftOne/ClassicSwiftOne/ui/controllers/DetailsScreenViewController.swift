@@ -51,6 +51,18 @@ class DetailsScreenViewController: UIViewController, UIScrollViewDelegate {
         setupScreenDesign()
         
         print("\(#function) from \(String(describing: self))")
+        
+        let dlg = DialogUseCase()
+//        dlg.buildAlert() {
+//            print("Alert success")
+//        }
+        dlg.buildConfirmation(){ value in
+                print("Confirmation dialog \"\(value)\"")
+        } onDismiss: {
+            print("Confirmation dialog dismissed")
+        }
+        weak var thisSelf = self
+        dlg.show(context: thisSelf)
     }
     
     private func configureCurrentScreen() {
@@ -129,7 +141,6 @@ class DetailsScreenViewController: UIViewController, UIScrollViewDelegate {
             uiDescription.text = "No summary text."
         }
     }
-    
     
     override func viewWillAppear(_ animated: Bool) {
         print("\(#function) from \(String(describing: self))")
