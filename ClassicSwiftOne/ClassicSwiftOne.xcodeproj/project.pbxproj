@@ -23,7 +23,6 @@
 		C3C808B12BCD2A53006980D2 /* FirstScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C808B02BCD2A53006980D2 /* FirstScreenViewController.swift */; };
 		C3C808B62BCD2A55006980D2 /* design.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3C808B52BCD2A55006980D2 /* design.xcassets */; };
 		C3C8090D2BCECB0C006980D2 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = C3C8090C2BCECB0C006980D2 /* Localizable.xcstrings */; };
-		C3C8091D2BCECE19006980D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3C8091E2BCECE19006980D2 /* LaunchScreen.storyboard */; };
 		C3C809202BD14618006980D2 /* TableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C8091F2BD14618006980D2 /* TableCell.swift */; };
 		C3C8092A2BD2B8DE006980D2 /* media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3C809292BD2B8DE006980D2 /* media.xcassets */; };
 		C3C809422BD2BEE7006980D2 /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3C809412BD2BEE7006980D2 /* nssl0033.jpg */; };
@@ -74,6 +73,9 @@
 		C3D023CB2C0F140B0015A2A2 /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D023CA2C0F140B0015A2A2 /* MenuItem.swift */; };
 		C3D023CD2C0F163B0015A2A2 /* MenuItemList.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D023CC2C0F163B0015A2A2 /* MenuItemList.swift */; };
 		C3D023D02C1076980015A2A2 /* PermissionsHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D023CF2C1076980015A2A2 /* PermissionsHandler.swift */; };
+		C3D023D22C2012750015A2A2 /* parrots-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = C3D023D12C2012750015A2A2 /* parrots-logo.png */; };
+		C3D023D62C205AA30015A2A2 /* SplashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D023D52C205AA30015A2A2 /* SplashViewController.swift */; };
+		C3F08A1A2C206B9100B7431D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3F08A192C206B9100B7431D /* LaunchScreen.storyboard */; };
 		C3FBDBF02BF35B5E009CB168 /* UserSettingsDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3FBDBEF2BF35B5E009CB168 /* UserSettingsDefaults.swift */; };
 		C3FBDBF22BF3670C009CB168 /* GetUserSettingsUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3FBDBF12BF3670C009CB168 /* GetUserSettingsUseCase.swift */; };
 		C3FBDBF42BF4B3F2009CB168 /* KeyChainPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3FBDBF32BF4B3F2009CB168 /* KeyChainPassword.swift */; };
@@ -141,7 +143,6 @@
 		C3C808B52BCD2A55006980D2 /* design.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = design.xcassets; sourceTree = "<group>"; };
 		C3C808BA2BCD2A55006980D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C3C8090C2BCECB0C006980D2 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
-		C3C8091E2BCECE19006980D2 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C3C8091F2BD14618006980D2 /* TableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableCell.swift; sourceTree = "<group>"; };
 		C3C809292BD2B8DE006980D2 /* media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = media.xcassets; sourceTree = "<group>"; };
 		C3C809412BD2BEE7006980D2 /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
@@ -199,6 +200,9 @@
 		C3D023CA2C0F140B0015A2A2 /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
 		C3D023CC2C0F163B0015A2A2 /* MenuItemList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemList.swift; sourceTree = "<group>"; };
 		C3D023CF2C1076980015A2A2 /* PermissionsHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermissionsHandler.swift; sourceTree = "<group>"; };
+		C3D023D12C2012750015A2A2 /* parrots-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "parrots-logo.png"; sourceTree = "<group>"; };
+		C3D023D52C205AA30015A2A2 /* SplashViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashViewController.swift; sourceTree = "<group>"; };
+		C3F08A192C206B9100B7431D /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C3FBDBEF2BF35B5E009CB168 /* UserSettingsDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSettingsDefaults.swift; sourceTree = "<group>"; };
 		C3FBDBF12BF3670C009CB168 /* GetUserSettingsUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetUserSettingsUseCase.swift; sourceTree = "<group>"; };
 		C3FBDBF32BF4B3F2009CB168 /* KeyChainPassword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyChainPassword.swift; sourceTree = "<group>"; };
@@ -318,8 +322,8 @@
 				C3C8090C2BCECB0C006980D2 /* Localizable.xcstrings */,
 				C3C808B52BCD2A55006980D2 /* design.xcassets */,
 				C3C809292BD2B8DE006980D2 /* media.xcassets */,
-				C3C8091E2BCECE19006980D2 /* LaunchScreen.storyboard */,
 				C3C808BA2BCD2A55006980D2 /* Info.plist */,
+				C3F08A192C206B9100B7431D /* LaunchScreen.storyboard */,
 			);
 			path = ClassicSwiftOne;
 			sourceTree = "<group>";
@@ -388,6 +392,7 @@
 				C3C808B02BCD2A53006980D2 /* FirstScreenViewController.swift */,
 				C3C809552BD65ADE006980D2 /* DetailsScreenViewController.swift */,
 				C3C8095E2BD6BCD9006980D2 /* ContactScreenViewController.swift */,
+				C3D023D52C205AA30015A2A2 /* SplashViewController.swift */,
 			);
 			path = controllers;
 			sourceTree = "<group>";
@@ -395,6 +400,7 @@
 		C3C809402BD2BE9D006980D2 /* assets */ = {
 			isa = PBXGroup;
 			children = (
+				C3D023D12C2012750015A2A2 /* parrots-logo.png */,
 				C3C809452BD2BEF6006980D2 /* nssl0034.jpg */,
 				C3C8094B2BD2BEF7006980D2 /* nssl0041.jpg */,
 				C3C809442BD2BEF6006980D2 /* nssl0042.jpg */,
@@ -697,13 +703,14 @@
 				C3C809502BD2BEF7006980D2 /* nssl0043.jpg in Resources */,
 				C3C809522BD2BEF7006980D2 /* nssl0046.jpg in Resources */,
 				C3C809422BD2BEE7006980D2 /* nssl0033.jpg in Resources */,
-				C3C8091D2BCECE19006980D2 /* LaunchScreen.storyboard in Resources */,
 				C3C8094E2BD2BEF7006980D2 /* nssl0034.jpg in Resources */,
 				C3C808B62BCD2A55006980D2 /* design.xcassets in Resources */,
+				C3F08A1A2C206B9100B7431D /* LaunchScreen.storyboard in Resources */,
 				C3C8094F2BD2BEF7006980D2 /* nssl0051.jpg in Resources */,
 				C3C809512BD2BEF7006980D2 /* nssl0049.jpg in Resources */,
 				C3C8094D2BD2BEF7006980D2 /* nssl0042.jpg in Resources */,
 				C3C8092A2BD2B8DE006980D2 /* media.xcassets in Resources */,
+				C3D023D22C2012750015A2A2 /* parrots-logo.png in Resources */,
 				C3C809532BD2BEF7006980D2 /* nssl0091.jpg in Resources */,
 				C3C8094C2BD2BEF7006980D2 /* nssl0045.jpg in Resources */,
 				C3C8090D2BCECB0C006980D2 /* Localizable.xcstrings in Resources */,
@@ -783,6 +790,7 @@
 				C3D023CB2C0F140B0015A2A2 /* MenuItem.swift in Sources */,
 				C3D0237E2BF775320015A2A2 /* NetworkMonitor.swift in Sources */,
 				C3D0237A2BF7399F0015A2A2 /* DataBaseUtils.swift in Sources */,
+				C3D023D62C205AA30015A2A2 /* SplashViewController.swift in Sources */,
 				C3D023882BFB92220015A2A2 /* TaskUtils.swift in Sources */,
 				C3D023C42C0DF2680015A2A2 /* DrawerTransitionManager.swift in Sources */,
 				C356EBB12BEB6BEE003E31FD /* GetImagesUseCase.swift in Sources */,
@@ -1017,9 +1025,11 @@
 				DEVELOPMENT_TEAM = Z3DAN4GFKX;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ClassicSwiftOne/Info.plist;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "Our app uses bluetooth to find, connect and transfer data between different devices";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UIMainStoryboardFile = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
@@ -1050,9 +1060,11 @@
 				DEVELOPMENT_TEAM = Z3DAN4GFKX;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ClassicSwiftOne/Info.plist;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "Our app uses bluetooth to find, connect and transfer data between different devices";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UIMainStoryboardFile = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 17.2;

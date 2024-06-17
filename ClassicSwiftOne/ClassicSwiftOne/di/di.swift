@@ -28,6 +28,11 @@ let diUI: Container = { // Not a singletone
         controller.viewModel = r.resolve(MainViewModel.self)
         return controller
     }
+    container.register(SplashViewController.self) { r in
+        let controller = SplashViewController()
+        controller.viewModel = r.resolve(MainViewModel.self)
+        return controller
+    }
     
     return container
 }()

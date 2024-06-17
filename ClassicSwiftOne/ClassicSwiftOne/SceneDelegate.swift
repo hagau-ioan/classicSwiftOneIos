@@ -17,7 +17,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         window?.windowScene = windowScene
         window?.makeKeyAndVisible()
         window?.tintColor = .systemRed
-        window?.rootViewController = UINavigationController(rootViewController: diUI.resolve(FirstScreenViewController.self)!)
+        ScreenNavigation.shared.switchNavigationRooterToSplashScreen()
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {

@@ -2,6 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppGroupIdentifier</key>
+	<string>group.com.learningswift.ClassicSwiftOne</string>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>com.classicswiftone.bgrefreshing</string>
+		<string>com.classicswiftone.bgprocessing</string>
+	</array>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
@@ -24,14 +31,5 @@
 		<string>processing</string>
 		<string>fetch</string>
 	</array>
-	<key>BGTaskSchedulerPermittedIdentifiers</key>
-	<array>
-		<string>com.classicswiftone.bgrefreshing</string>
-		<string>com.classicswiftone.bgprocessing</string>
-	</array>
-	<key>AppGroupIdentifier</key>
-	<string>group.com.learningswift.ClassicSwiftOne</string>
-    <key>NSBluetoothAlwaysUsageDescription</key>
-    <string>Our app uses bluetooth to find, connect and transfer data between different devices</string>
 </dict>
 </plist>

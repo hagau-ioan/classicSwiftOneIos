@@ -282,7 +282,7 @@ extension FirstScreenViewController: UITableViewDataSource, UITableViewDelegate 
             thisCell.selectedBackgroundView = bgColorView
         }
         
-        ScreenNavigation.instance.openDetailsScreen(
+        ScreenNavigation.shared.openDetailsScreen(
             navigationController: navigationController,
             picture: pictures[indexPath.row],
             writeBackValueDelegate: self

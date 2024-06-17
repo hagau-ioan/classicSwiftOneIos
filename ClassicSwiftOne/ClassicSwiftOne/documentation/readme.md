@@ -58,6 +58,12 @@ Keychain Sharing- Enabling keychain sharing allows your app to share passwords i
 
 UserDefaults(Not safe only some key/value data) - An interface to the user's defaults database, where you store key-value pairs persistently across invocations of your app on a given device. UserDefaults are not secure way to save private data. UserDefaults are stored as plist locally, Anyone can track in ./Library/Preferences/com.mycompany.MyAppName.plist
 
+
+# Swift Animations
+
+- Using the concepts of scene and scene nodes. Ex: SKScene, SKSpriteNode (project 14)
+- Bounds(dim. of the picture), Layer(surface of animation, style), frame (the picture on the wall)
+
 # Swift UI
 
 - [View Inspector](https://github.com/nalexn/ViewInspector) - for SwiftUI instrudmentation test
