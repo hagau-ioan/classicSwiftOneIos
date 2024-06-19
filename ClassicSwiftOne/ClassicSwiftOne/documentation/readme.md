@@ -13,6 +13,12 @@
         // dos ome background work here
     }
 ```
+## Timer scheduler
+
+```sh
+    Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(splashTimeOut(sender:)), userInfo: nil, repeats: false)
+```
+
 # UI Thread
 ```sh
     DispatchQueue.main.async {..some code here for UI..}
@@ -64,9 +70,17 @@ UserDefaults(Not safe only some key/value data) - An interface to the user's def
 - Using the concepts of scene and scene nodes. Ex: SKScene, SKSpriteNode (project 14)
 - Bounds(dim. of the picture), Layer(surface of animation, style), frame (the picture on the wall)
 
+# SPLASH SCREEN
+
+- There is no fix idea how to implement this. However there are two ways: through .plist setting or through the *LaunchScreen.storyboard.
+
 # Swift UI
 
 - [View Inspector](https://github.com/nalexn/ViewInspector) - for SwiftUI instrudmentation test
+
+# Live Activities (Widgets)
+
+- https://medium.com/kinandcartacreated/how-to-build-ios-live-activity-d1b2f238819e - usualy working with push notification system.
 
 # COCOAPODS (reopen the project from workspace not from the project)
 

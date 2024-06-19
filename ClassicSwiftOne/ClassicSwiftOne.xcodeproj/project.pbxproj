@@ -76,6 +76,7 @@
 		C3D023D22C2012750015A2A2 /* parrots-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = C3D023D12C2012750015A2A2 /* parrots-logo.png */; };
 		C3D023D62C205AA30015A2A2 /* SplashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D023D52C205AA30015A2A2 /* SplashViewController.swift */; };
 		C3F08A1A2C206B9100B7431D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3F08A192C206B9100B7431D /* LaunchScreen.storyboard */; };
+		C3F08A1D2C21B74D00B7431D /* NotificationUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F08A1C2C21B74D00B7431D /* NotificationUseCase.swift */; };
 		C3FBDBF02BF35B5E009CB168 /* UserSettingsDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3FBDBEF2BF35B5E009CB168 /* UserSettingsDefaults.swift */; };
 		C3FBDBF22BF3670C009CB168 /* GetUserSettingsUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3FBDBF12BF3670C009CB168 /* GetUserSettingsUseCase.swift */; };
 		C3FBDBF42BF4B3F2009CB168 /* KeyChainPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3FBDBF32BF4B3F2009CB168 /* KeyChainPassword.swift */; };
@@ -203,6 +204,7 @@
 		C3D023D12C2012750015A2A2 /* parrots-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "parrots-logo.png"; sourceTree = "<group>"; };
 		C3D023D52C205AA30015A2A2 /* SplashViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashViewController.swift; sourceTree = "<group>"; };
 		C3F08A192C206B9100B7431D /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C3F08A1C2C21B74D00B7431D /* NotificationUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationUseCase.swift; sourceTree = "<group>"; };
 		C3FBDBEF2BF35B5E009CB168 /* UserSettingsDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSettingsDefaults.swift; sourceTree = "<group>"; };
 		C3FBDBF12BF3670C009CB168 /* GetUserSettingsUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetUserSettingsUseCase.swift; sourceTree = "<group>"; };
 		C3FBDBF32BF4B3F2009CB168 /* KeyChainPassword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyChainPassword.swift; sourceTree = "<group>"; };
@@ -387,6 +389,7 @@
 		C3C809282BD29EE5006980D2 /* controllers */ = {
 			isa = PBXGroup;
 			children = (
+				C3F08A1B2C21B72B00B7431D /* notification */,
 				C3D023BE2C0DDB560015A2A2 /* drawer */,
 				C3C809572BD66ED7006980D2 /* navigation */,
 				C3C808B02BCD2A53006980D2 /* FirstScreenViewController.swift */,
@@ -537,6 +540,14 @@
 				C3D023CF2C1076980015A2A2 /* PermissionsHandler.swift */,
 			);
 			path = permissions;
+			sourceTree = "<group>";
+		};
+		C3F08A1B2C21B72B00B7431D /* notification */ = {
+			isa = PBXGroup;
+			children = (
+				C3F08A1C2C21B74D00B7431D /* NotificationUseCase.swift */,
+			);
+			path = notification;
 			sourceTree = "<group>";
 		};
 		C3FBDC0B2BF632BC009CB168 /* database */ = {
@@ -801,6 +812,7 @@
 				C3D023802BFB32BC0015A2A2 /* Tracking.swift in Sources */,
 				C356EBAC2BEB6A3F003E31FD /* RepositoryLocalStorage.swift in Sources */,
 				C3C808B12BCD2A53006980D2 /* FirstScreenViewController.swift in Sources */,
+				C3F08A1D2C21B74D00B7431D /* NotificationUseCase.swift in Sources */,
 				C3D023C62C0DF5380015A2A2 /* DrawerPresentationController.swift in Sources */,
 				C3D0238C2BFCAC400015A2A2 /* BackgroundServiceManagement.swift in Sources */,
 				C3C809592BD66EFC006980D2 /* ScreenDetailsArg.swift in Sources */,

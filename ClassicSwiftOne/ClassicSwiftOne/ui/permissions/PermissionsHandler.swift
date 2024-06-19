@@ -41,7 +41,7 @@ class PermissionsHandler: NSObject {
     
     func requestNotificationPermission(onSuccess: @escaping () -> Void = {}, onError: @escaping () -> Void = {}) {
         isNotificationPermissionAllowed(onResult: { allowed in
-            print("allowed: \(allowed)")
+            print("notifications are allowed: \(allowed)")
             if !allowed {
                 UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .sound, .badge]) { granted, error in
                     print("test 1 \(granted)")
@@ -56,34 +56,6 @@ class PermissionsHandler: NSObject {
                 onSuccess()
             }
         })
-    }
-    
-    func scheduleNotificationDemo() {
-        let center = UNUserNotificationCenter.current()
-        
-        // Cleanup all notifications from the center to test faster the notification
-        center.removeAllPendingNotificationRequests()
-        
-        let content = UNMutableNotificationContent()
-        content.title = "A notification title"
-        content.body = "A notification message related to this notification title as POC."
-        content.categoryIdentifier = "alarm" // alert , background , voip , complication , fileprovider , or mdm
-        content.userInfo = ["customData": "some info here"]
-        content.sound = UNNotificationSound.default
-        
-        //        var dateComponents = DateComponents() // create a repeating alarm at 10:30am every morning
-        //        dateComponents.hour = 10
-        //        dateComponents.minute = 30
-        //        let trigger = UNCalendarNotificationTrigger(dateMatching: dateComponents, repeats: true)
-        
-        // use this identifier to cancel the request if it’s still pending
-        let request = UNNotificationRequest(identifier: UUID().uuidString, content: content, trigger: nil)
-        center.add(request) { (error) in
-            if let error = error {
-                print("Error adding notification request: \(error)")
-            }
-        }
-        
     }
     
 }

@@ -32,7 +32,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UNUserNotificationCenterD
         UNUserNotificationCenter.current().delegate = self
         PermissionsHandler.shared.requestNotificationPermission() {
             // Trigger a notification banner as DEMO test after permissions are allowed
-            PermissionsHandler.shared.scheduleNotificationDemo()
+            NotificationUseCase.shared.scheduleNotificationDemo()
         } onError: {
             print("Notification permission is forbidden")
         }
