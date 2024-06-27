@@ -77,6 +77,7 @@
 		C3D023D62C205AA30015A2A2 /* SplashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D023D52C205AA30015A2A2 /* SplashViewController.swift */; };
 		C3F08A1A2C206B9100B7431D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3F08A192C206B9100B7431D /* LaunchScreen.storyboard */; };
 		C3F08A1D2C21B74D00B7431D /* NotificationUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F08A1C2C21B74D00B7431D /* NotificationUseCase.swift */; };
+		C3F08A1F2C246B2900B7431D /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F08A1E2C246B2900B7431D /* WebViewController.swift */; };
 		C3FBDBF02BF35B5E009CB168 /* UserSettingsDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3FBDBEF2BF35B5E009CB168 /* UserSettingsDefaults.swift */; };
 		C3FBDBF22BF3670C009CB168 /* GetUserSettingsUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3FBDBF12BF3670C009CB168 /* GetUserSettingsUseCase.swift */; };
 		C3FBDBF42BF4B3F2009CB168 /* KeyChainPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3FBDBF32BF4B3F2009CB168 /* KeyChainPassword.swift */; };
@@ -205,6 +206,7 @@
 		C3D023D52C205AA30015A2A2 /* SplashViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashViewController.swift; sourceTree = "<group>"; };
 		C3F08A192C206B9100B7431D /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C3F08A1C2C21B74D00B7431D /* NotificationUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationUseCase.swift; sourceTree = "<group>"; };
+		C3F08A1E2C246B2900B7431D /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 		C3FBDBEF2BF35B5E009CB168 /* UserSettingsDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSettingsDefaults.swift; sourceTree = "<group>"; };
 		C3FBDBF12BF3670C009CB168 /* GetUserSettingsUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetUserSettingsUseCase.swift; sourceTree = "<group>"; };
 		C3FBDBF32BF4B3F2009CB168 /* KeyChainPassword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyChainPassword.swift; sourceTree = "<group>"; };
@@ -396,6 +398,7 @@
 				C3C809552BD65ADE006980D2 /* DetailsScreenViewController.swift */,
 				C3C8095E2BD6BCD9006980D2 /* ContactScreenViewController.swift */,
 				C3D023D52C205AA30015A2A2 /* SplashViewController.swift */,
+				C3F08A1E2C246B2900B7431D /* WebViewController.swift */,
 			);
 			path = controllers;
 			sourceTree = "<group>";
@@ -837,6 +840,7 @@
 				C3C809632BD790B3006980D2 /* ScreenNavigation.swift in Sources */,
 				C35FDF3F2BDB133300CF97C8 /* GetPostsUseCase.swift in Sources */,
 				C3D023822BFB34C20015A2A2 /* SwiftDataModelContainer.swift in Sources */,
+				C3F08A1F2C246B2900B7431D /* WebViewController.swift in Sources */,
 				C3D0232B2BF65A4C0015A2A2 /* GetUserUseCase.swift in Sources */,
 				C3C809742BD927A7006980D2 /* Post.swift in Sources */,
 				C3C8095B2BD68F24006980D2 /* ImageView.swift in Sources */,

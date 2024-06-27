@@ -29,9 +29,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UNUserNotificationCenterD
         }
         
         // Preparation to check the permission and also to do the setup for sending notification NOW (not scheduled for other time).
-        UNUserNotificationCenter.current().delegate = self
+//        UNUserNotificationCenter.current().delegate = self
+        NotificationUseCase.shared.registerCategories(delegate: self)
         PermissionsHandler.shared.requestNotificationPermission() {
             // Trigger a notification banner as DEMO test after permissions are allowed
+            
             NotificationUseCase.shared.scheduleNotificationDemo()
         } onError: {
             print("Notification permission is forbidden")
@@ -50,8 +52,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UNUserNotificationCenterD
     
     // UNUserNotificationCenterDelegate - method to trigger a notification display NOW
     func userNotificationCenter(_ center: UNUserNotificationCenter,
-                                didReceive: UNNotificationResponse,
+                                didReceive response : UNNotificationResponse,
                                 withCompletionHandler: @escaping ()->()) {
+        // Handle here what will happen when a notification is selected from screen.
+        NotificationUseCase.shared.doSomethingWhenTheNotificationIsSelected(response: response)
         withCompletionHandler()
     }
     

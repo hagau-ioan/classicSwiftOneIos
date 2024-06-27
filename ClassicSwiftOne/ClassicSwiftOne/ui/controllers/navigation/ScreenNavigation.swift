@@ -12,6 +12,18 @@ class ScreenNavigation {
     
     static let shared = ScreenNavigation()
     
+    func openWebViewScreen(navigationController: UINavigationController?) {
+        let vc = WebViewController()
+        
+        //UINavigationController(rootViewController: vc).pushViewController(<#T##viewController: UIViewController##UIViewController#>, animated: <#T##Bool#>)
+        let rootController = getRootViewController()
+        
+        rootController?.pushViewController(vc, animated: true)
+        
+        
+        
+    }
+    
     func openDetailsScreen(
         navigationController: UINavigationController?,
         picture: ImageItem,
@@ -31,5 +43,10 @@ class ScreenNavigation {
     func switchNavigationRooterToSplashScreen() {
         let sceneDelegate = UIApplication.shared.connectedScenes.first?.delegate as! SceneDelegate
         sceneDelegate.window?.rootViewController = UINavigationController(rootViewController: diUI.resolve(SplashViewController.self)!)
+    }
+    
+    func getRootViewController() -> UINavigationController? {
+        let sceneDelegate = UIApplication.shared.connectedScenes.first?.delegate as! SceneDelegate
+        return sceneDelegate.window?.rootViewController as? UINavigationController
     }
 }

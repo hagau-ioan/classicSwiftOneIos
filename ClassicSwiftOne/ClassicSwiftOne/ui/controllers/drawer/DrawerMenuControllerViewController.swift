@@ -55,10 +55,16 @@ extension DrawerMenuControllerViewController: UITableViewDataSource, UITableView
     func populateItems() {
         
         func selectItem(menuItem: MenuItem) {
+            if(menuItem.id == 1) {
+                print("Going to webview controller screen")
+                ScreenNavigation.shared.openWebViewScreen(
+                    navigationController: navigationController
+                )
+            }
             print("Do Something after the menu item \(menuItem.name) is selected")
         }
         
-        menuItems.append(MenuItem(id: 1, name: "Menu Option 1", icon: "", selected: false, onClick: selectItem))
+        menuItems.append(MenuItem(id: 1, name: "Web View Screen", icon: "", selected: false, onClick: selectItem))
         menuItems.append(MenuItem(id: 2, name: "Menu Option 2", icon: "", selected: false, onClick: selectItem))
         menuItems.append(MenuItem(id: 3, name: "Menu Option 3", icon: "", selected: false, onClick: selectItem))
         menuItems.append(MenuItem(id: 4, name: "Menu Option 4", icon: "", selected: false, onClick: selectItem))
@@ -104,13 +110,9 @@ extension DrawerMenuControllerViewController: UITableViewDataSource, UITableView
             if selectedItemMenuId > 0 {
                 toggleItem(id: selectedItemMenuId, selected: false)
             }
-            print("unselected: \(selectedItemMenuId)")
             selectedItemMenuId = menuItems[indexPath.row].id
-            print("selected: \(selectedItemMenuId)")
             toggleItem(id: menuItems[indexPath.row].id, selected: true)
             menuItems[indexPath.row].onClick(menuItems[indexPath.row])
-            
-            
          }
     }
     

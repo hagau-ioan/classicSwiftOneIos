@@ -47,7 +47,8 @@ UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge
 
 # Recover the app state
 
-- NSUserActivity, UIUserActivityRestoring
+- NSUserActivity, UIUserActivityRestoring - in case the app crashed or closed by force we can restore the initial state of the app
+    by reoppening same screen based on some simplified arguments. Similar with Android for "onSaveInstanceState"
 
 # Data Base
 
@@ -81,6 +82,15 @@ UserDefaults(Not safe only some key/value data) - An interface to the user's def
 # Live Activities (Widgets)
 
 - https://medium.com/kinandcartacreated/how-to-build-ios-live-activity-d1b2f238819e - usualy working with push notification system.
+
+# SECURITY
+
+- check against: Screen Recording and Screen Capturing
+- Jail Break Detection
+- keychain
+- certificate pinning
+- file save encripted
+- [More additional info and guidelines](https://pratap89singh.medium.com/ios-mobile-app-security-best-practices-for-ios-mobile-developers-a7e9375d40be)
 
 # COCOAPODS (reopen the project from workspace not from the project)
 
