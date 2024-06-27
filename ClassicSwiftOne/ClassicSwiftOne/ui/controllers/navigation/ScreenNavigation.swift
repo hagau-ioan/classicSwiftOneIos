@@ -14,14 +14,7 @@ class ScreenNavigation {
     
     func openWebViewScreen(navigationController: UINavigationController?) {
         let vc = WebViewController()
-        
-        //UINavigationController(rootViewController: vc).pushViewController(<#T##viewController: UIViewController##UIViewController#>, animated: <#T##Bool#>)
-        let rootController = getRootViewController()
-        
-        rootController?.pushViewController(vc, animated: true)
-        
-        
-        
+        getRootViewController()?.pushViewController(vc, animated: true)
     }
     
     func openDetailsScreen(

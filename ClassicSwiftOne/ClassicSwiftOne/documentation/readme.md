@@ -83,6 +83,22 @@ UserDefaults(Not safe only some key/value data) - An interface to the user's def
 
 - https://medium.com/kinandcartacreated/how-to-build-ios-live-activity-d1b2f238819e - usualy working with push notification system.
 
+# Scenes and SceneDelegate
+
+- The Scene Delegate is responsible for managing the life cycle of scenes in an iOS application. A scene represents a window (like an Android activity) and its associated content, such as viewcontrollers, user interfaces, and interactions. The Scene Delegate is responsible for creating new scenes when the application launches and destroying them when the application terminates.
+
+
+```sh
+// We can have now another root controler navigation which will be bound to this new scene.
+func createNewScene() {
+    if let windowScene = UIApplication.shared.connectedScenes.first as? UIWindowScene {
+        let window = UIWindow(windowScene: windowScene)
+        window.rootViewController = ViewController()
+        window.makeKeyAndVisible()
+    }
+}
+```
+
 # SECURITY
 
 - check against: Screen Recording and Screen Capturing
