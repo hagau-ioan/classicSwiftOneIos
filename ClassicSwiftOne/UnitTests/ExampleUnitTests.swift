@@ -39,6 +39,12 @@ final class ExampleUnitTests: XCTestCase {
         let task = await viewModel?.methodForTestTask(value: expectedValue)
         let value = try await task?.value
         XCTAssertEqual(expectedValue, value)
+        
+        // Skip some checks and actions based on some criteria.
+        // try XCTSkipIf(SomeList.isEmpty)
+        // try XCTSkipUnless(SomeClass.someMethod(.someVariableFromClass))
+        
+        
     }
 
     func testPerformanceExample() throws {
