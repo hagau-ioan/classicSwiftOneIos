@@ -10,6 +10,8 @@ import UIKit
 
 class SplashViewController: UIViewController {
     
+    var spinner: UIActivityIndicatorView? = nil
+    
     // @Inject
     var viewModel: MainViewModel? = nil
     
@@ -27,10 +29,24 @@ class SplashViewController: UIViewController {
         view.addSubview(backgroundImageView)
         view.sendSubviewToBack(backgroundImageView)
         
+        // Example of adding a spinner in the middle of the screen with a color and size.
+        spinner = UIActivityIndicatorView(style: UIActivityIndicatorView.Style.medium)
+        spinner?.color = UIColor.red
+        spinner?.transform = CGAffineTransform(scaleX: 3, y: 3)
+        if let spinner = spinner {
+            spinner.center = view.center
+            view.addSubview(spinner)
+            spinner.startAnimating()
+        }
+        
         Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(splashTimeOut(sender:)), userInfo: nil, repeats: false)
     }
 
     @objc func splashTimeOut(sender : Timer){
+        if let spinner = spinner {
+            spinner.stopAnimating()
+            view.addSubview(spinner)
+        }
         ScreenNavigation.shared.switchNavigationRooterToHomeScreen()
     }
 }

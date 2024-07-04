@@ -1,3 +1,8 @@
+# DI
+
+- SwiftInject: this require a more complex config of each dependency
+- [Factory](https://github.com/hmlongco/Factory): this is a simplified version and easy to model it.
+
 #  Background long running tasks
 
 - It is not possible to have multi processes in an iOS app.
@@ -101,6 +106,8 @@ func createNewScene() {
 
 # SECURITY
 
+## Options we need to take in consideration when we talk about security in an IOS app
+
 - check against: Screen Recording and Screen Capturing
 - Jail Break Detection
 - keychain
@@ -143,3 +150,7 @@ pod repo update
 # ERROR POD
 
 - https://stackoverflow.com/questions/76590131/error-while-build-ios-app-in-xcode-sandbox-rsync-samba-13105-deny1-file-w
+
+# Check version of the Swift
+
+- xcrun swift -version
