@@ -39,6 +39,11 @@ class SplashViewController: UIViewController {
             spinner.startAnimating()
         }
         
+        backgroundImageView.alpha = 1
+        UIView.animate(withDuration: 2) {
+            backgroundImageView.alpha = 0
+        }
+        
         Timer.scheduledTimer(timeInterval: 3, target: self, selector: #selector(splashTimeOut(sender:)), userInfo: nil, repeats: false)
     }
 

@@ -8,7 +8,7 @@
 import Foundation
 
 // Should be "struct" but cannot be used for generic types
-class Post: Codable {
+class Post: Decodable {
     
     private var body: String  = ""
     

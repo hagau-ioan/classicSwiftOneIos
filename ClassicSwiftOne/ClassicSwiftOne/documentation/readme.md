@@ -45,6 +45,7 @@ UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge
 
 - URLSession.shared.dataTask ... (The URLSession API provides a powerful and flexible way to download data in the background, even when the app is in the background or not running)
 - [Alamofire](https://codewithchris.com/alamofire/) - http client library to handle at full options the http requests: pod “Alamofire”
+- [Encodable[object->json]/Decodable[json->object]](https://www.linkedin.com/pulse/encodable-decodable-codable-swift-omkar-raut-ata7f/)
 
 # COMBINE
 

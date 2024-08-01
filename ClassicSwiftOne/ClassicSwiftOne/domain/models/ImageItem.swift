@@ -8,7 +8,7 @@
 import Foundation
 
 // Should be struct like a tuple ImageItem(title: ....) but because of the generic usage must be a class
-class ImageItem: Codable {
+class ImageItem: Decodable {
     var title: String = ""
     var image: String = ""
     var description: String = ""
