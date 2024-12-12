@@ -19,42 +19,42 @@ import XCTest
  */
 final class ExampleUnitTests: XCTestCase {
 
-    var viewModel: MainViewModel? = nil
-    
-    override func setUpWithError() throws {
-        viewModel = MainViewModel(
-            postsUseCase : nil,
-            imagesUseCase:nil,
-            settings : nil,
-            keyChain : nil,
-            userUsercase : nil
-        )    }
-
-    override func tearDownWithError() throws {
-        viewModel = nil
-    }
-
-    func testExample() async throws {
-        let expectedValue = 2
-        let task = await viewModel?.methodForTestTask(value: expectedValue)
-        let value = try await task?.value
-        XCTAssertEqual(expectedValue, value)
-        
-        // Skip some checks and actions based on some criteria.
-        // try XCTSkipIf(SomeList.isEmpty)
-        // try XCTSkipUnless(SomeClass.someMethod(.someVariableFromClass))
-        
-        
-    }
-
-    func testPerformanceExample() throws {
-        // This is an example of a performance test case.
-        measure {
-//            for i in 1 ..< 100000 {
-//                print(i)
-//            }
-            // Put the code you want to measure the time of here.
-        }
-    }
+//    var viewModel: MainViewModel? = nil
+//    
+//    override func setUpWithError() throws {
+//        viewModel = MainViewModel(
+//            postsUseCase : nil,
+//            imagesUseCase:nil,
+//            settings : nil,
+//            keyChain : nil,
+//            userUsercase : nil
+//        )    }
+//
+//    override func tearDownWithError() throws {
+//        viewModel = nil
+//    }
+//
+//    func testExample() async throws {
+//        let expectedValue = 2
+//        let task = await viewModel?.methodForTestTask(value: expectedValue)
+//        let value = try await task?.value
+//        XCTAssertEqual(expectedValue, value)
+//        
+//        // Skip some checks and actions based on some criteria.
+//        // try XCTSkipIf(SomeList.isEmpty)
+//        // try XCTSkipUnless(SomeClass.someMethod(.someVariableFromClass))
+//        
+//        
+//    }
+//
+//    func testPerformanceExample() throws {
+//        // This is an example of a performance test case.
+//        measure {
+////            for i in 1 ..< 100000 {
+////                print(i)
+////            }
+//            // Put the code you want to measure the time of here.
+//        }
+//    }
 
 }

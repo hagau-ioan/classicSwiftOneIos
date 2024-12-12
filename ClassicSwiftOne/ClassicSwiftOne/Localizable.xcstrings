@@ -1,6 +1,12 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "Dashboard" : {
+
+    },
+    "DASHBOARD" : {
+
+    },
     "DESC" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -24,6 +30,9 @@
         }
       }
     },
+    "Details" : {
+
+    },
     "DETAILS_IMAGE_TITLE" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -35,6 +44,15 @@
         }
       }
     },
+    "Directly the details version" : {
+
+    },
+    "Hard Coded Content" : {
+
+    },
+    "Hard Coded Content test" : {
+
+    },
     "HOME_SCREEN_TITLE_TBL" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -45,6 +63,9 @@
           }
         }
       }
+    },
+    "Page Title: DetailsContentView screen" : {
+
     },
     "SCREEN_DETAILS_TITLE" : {
       "extractionState" : "manual",
@@ -69,7 +90,13 @@
         }
       }
     },
-    "TITLE" : {
+    "Second Dashboard" : {
+
+    },
+    "Second DASHBOARD" : {
+
+    },
+    "Sidebar" : {
 
     }
   },

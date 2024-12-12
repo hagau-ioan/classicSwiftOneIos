@@ -5,19 +5,14 @@
 //  Created by Hagau Ioan on 15.04.2024.
 //
 
-import UIKit
+import SwiftUI
 
-class SceneDelegate: UIResponder, UIWindowSceneDelegate {
+class SceneDelegate: NSObject, UIWindowSceneDelegate {
 
     var window: UIWindow?
 
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
         guard let windowScene = (scene as? UIWindowScene) else { return }
-        window = UIWindow(frame: windowScene.coordinateSpace.bounds)
-        window?.windowScene = windowScene
-        window?.makeKeyAndVisible()
-        window?.tintColor = .systemRed
-        ScreenNavigation.shared.switchNavigationRooterToSplashScreen()
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {
@@ -45,7 +40,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     }
 
     func sceneDidEnterBackground(_ scene: UIScene) {
-        BackgroundServiceManagement.shared.didEnteredBackground()
+//        BackgroundServiceManagement.shared.didEnteredBackground()
         // Called as the scene transitions from the foreground to the background.
         // Use this method to save data, release shared resources, and store enough scene-specific state information
         // to restore the scene back to its current state.

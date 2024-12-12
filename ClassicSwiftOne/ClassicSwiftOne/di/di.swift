@@ -15,23 +15,13 @@ let diUI: Container = { // Not a singletone
     let container = Container()
     container.register(MainViewModel.self) { _ in
         let viewModel = MainViewModel(
-            postsUseCase: diDomain.resolve(GetPostsUseCase.self),
-            imagesUseCase: diDomain.resolve(GetImagesUseCase.self),
-            settings: diDomain.resolve(GetUserSettingsUseCase.self),
-            keyChain: diDomain.resolve(GetKeyChainPasswordUseCase.self),
-            userUsercase: diDomain.resolve(GetUserUseCase.self)
+//            postsUseCase: diDomain.resolve(GetPostsUseCase.self),
+//            imagesUseCase: diDomain.resolve(GetImagesUseCase.self),
+//            settings: diDomain.resolve(GetUserSettingsUseCase.self),
+//            keyChain: diDomain.resolve(GetKeyChainPasswordUseCase.self),
+//            userUsercase: diDomain.resolve(GetUserUseCase.self)
         )
         return viewModel
-    }
-    container.register(FirstScreenViewController.self) { r in
-        let controller = FirstScreenViewController()
-        controller.viewModel = r.resolve(MainViewModel.self)
-        return controller
-    }
-    container.register(SplashViewController.self) { r in
-        let controller = SplashViewController()
-        controller.viewModel = r.resolve(MainViewModel.self)
-        return controller
     }
     
     return container
