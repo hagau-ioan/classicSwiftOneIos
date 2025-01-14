@@ -23,6 +23,11 @@ class Post: Decodable {
     }
 }
 
+// Example of extension
+extension Post {
+    func test() {}
+}
+
 //extension Post: Identifiable {
 //    var myid: Int { return id }
 //}

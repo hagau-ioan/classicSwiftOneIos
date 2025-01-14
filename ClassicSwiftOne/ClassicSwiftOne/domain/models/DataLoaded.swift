@@ -10,7 +10,7 @@ import Foundation
 struct DataLoaded<T: AnyObject> {
     var data: [T]
 }
-
+// Concept of @frozen with all members public
 enum DataLoadingState<T: AnyObject> {
     case SUCCESS(dataLoaded: DataLoaded<T>)
     case ERROR(errorCode: DataLoadingErrorCode)

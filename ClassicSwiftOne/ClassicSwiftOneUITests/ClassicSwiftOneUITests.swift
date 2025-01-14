@@ -9,6 +9,8 @@ import XCTest
 /*
  * Reference for testing UI: https://semaphoreci.com/blog/ui-testing-swift
  * https://ahmadgsufi.medium.com/user-interface-testing-for-ios-apps-a-comprehensive-guide-a2e933d83be0
+ * To filter out some logic during e2e tests we can use something like this:
+ * let isUnitTesting = ProcessInfo.processInfo.environment["XCTestConfigurationFilePath"] != nil
  */
 final class ClassicSwiftOneUITests: XCTestCase {
     

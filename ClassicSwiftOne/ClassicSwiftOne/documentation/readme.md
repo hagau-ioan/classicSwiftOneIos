@@ -26,8 +26,13 @@
 
 # UI Thread
 ```sh
-    DispatchQueue.main.async {..some code here for UI..}
+    DispatchQueue.main.async {..some code here for UI..} --> in closure callback function
+    Should be used "await MainActor.run {}" or @MainActor at the callback argument level or property, class, function.
 ```
+
+- The concept of "actor" is a inheritance type value as a class but which will create the isolated singletone context of running a code in concurent mode.
+- Ex: Task { }await myActorRefer.doSomething() }
+- The IO dispatcher of the Task is handled by the Task it self.
 
 #  Notifications
 
@@ -46,6 +51,7 @@ UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge
 - URLSession.shared.dataTask ... (The URLSession API provides a powerful and flexible way to download data in the background, even when the app is in the background or not running)
 - [Alamofire](https://codewithchris.com/alamofire/) - http client library to handle at full options the http requests: pod “Alamofire”
 - [Encodable[object->json]/Decodable[json->object]](https://www.linkedin.com/pulse/encodable-decodable-codable-swift-omkar-raut-ata7f/)
+- https://medium.com/@manojkarkie/encodable-and-decodable-in-swift-4-747328a7c7c5
 
 # COMBINE
 
@@ -61,7 +67,7 @@ UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge
 - [CoreData](https://developer.apple.com/documentation/coredata/) - for the local database
 - [Core data to access and view the DB with a client DB](
 https://stackoverflow.com/questions/10239634/how-can-i-check-what-is-stored-in-my-core-data-database)
-- https://medium.com/mobile-app-development-publication/a-guide-to-persistence-storage-in-ios-a8b4f7355486
+- [typealias Codable = Encodable & Decodable a more generic way json->object->json] (https://medium.com/mobile-app-development-publication/a-guide-to-persistence-storage-in-ios-a8b4f7355486)
 
 ## Secure Data Storage of some chunks of data
 
@@ -103,6 +109,16 @@ func createNewScene() {
         window.makeKeyAndVisible()
     }
 }
+```
+
+
+# Test e2e
+
+```sh
+ * Reference for testing UI: https://semaphoreci.com/blog/ui-testing-swift
+ * https://ahmadgsufi.medium.com/user-interface-testing-for-ios-apps-a-comprehensive-guide-a2e933d83be0
+ * To filter out some logic during e2e/unit tests we can use something like this:
+ * let isUnitTesting = ProcessInfo.processInfo.environment["XCTestConfigurationFilePath"] != nil
 ```
 
 # SECURITY
